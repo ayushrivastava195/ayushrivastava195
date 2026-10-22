@@ -31,7 +31,7 @@
 
 ## 🌱 Currently Learning 
 
-- Python Data WorkFlow [Data - Collection, Cleaning, Analysis, Visualisation]
+- Python Data WorkFlow (Data - Collection, Cleaning, Analysis, Visualisation)
 - Data Manipulation & Numerical Computing (Pandas,Numpy)
 ## 🛠️ Technical Skillset
 
